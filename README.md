@@ -1,5 +1,5 @@
 # 🔐 Password Strength Checker
-  
+ 
 This is a simple Python script that checks the strength of a password based on the following criteria:  
 - **Length** (minimum 8 characters)  
 - **Numbers** (at least one)  
@@ -14,3 +14,5 @@ If a password meets all the criteria, it is classified as **strong**. Otherwise,
 ## 🚀 Installation  
 1. **Clone the repository**:  
    ```sh
+   git clone https://github.com/your-username/Password-Checker.git
+   cd Password-Checker
